@@ -1,0 +1,7 @@
+connectors:
+    websocket: {}
+    
+skills:
+    hello: {}
+    ping:
+        path: skill.py
